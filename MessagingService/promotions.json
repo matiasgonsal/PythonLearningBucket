@@ -1,0 +1,14 @@
+{
+  "promotionsMessages": [
+    {
+      "to": "matiasgonsal@gmail.com",
+      "subject": "Good News!!! Discount time!",
+      "message": "Hey, we have a discount of 10% for you this week!!!"
+    },
+    {
+      "to": "matiasgonsal@gmail.com",
+      "subject": "Good News!!! Discount time!",
+      "message": "Hey, we have a discount of 50% for you this week!!!"
+    }
+  ]
+}
